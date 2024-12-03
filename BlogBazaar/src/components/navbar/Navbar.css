@@ -1,0 +1,12 @@
+
+.nav{
+    background-color: #235D8C6B;
+    width: 125rem;
+    height: 5.8rem;
+    border: 1px solid white;
+    border-radius: 2.2rem;
+    -webkit-border-radius: 2.2rem;
+    -moz-border-radius: 2.2rem;
+    -ms-border-radius: 2.2rem;
+    -o-border-radius: 2.2rem;
+}
